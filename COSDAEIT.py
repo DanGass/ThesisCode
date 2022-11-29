@@ -1,4 +1,4 @@
-#An algorithm to trace coronal loops in the limb region using both unprocessed and MGN processed SOHO EIT images. Based on OCCULT-2 produced by Dr. Markus Aschwanden & Dr Peter Hardi and Multi-Gaussian-Normalization produced by Dr. Huw Morgan and Dr Miloslav Druckmuller
+#An algorithm to identify local coronal intensity peaks in the limb using both unprocessed and MGN processed SOHO EIT images. Based on OCCULT-2 produced by Dr. Markus Aschwanden & Dr Peter Hardi and Multi-Gaussian-Normalization produced by Dr. Huw Morgan and Dr Miloslav Druckmuller
 import numpy as np
 #import numpy.ma as ma
 import sunpy.map
